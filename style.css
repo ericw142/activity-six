@@ -1,4 +1,9 @@
 img {
     width: 20px;
     height: 50px;
+    float: left;
+}
+
+p {
+    float: left;
 }
